@@ -1,3 +1,5 @@
 .idea/*
 /.DS_Store
 .gitmodules
+sonatype-work/**
+nexus-2.14.5-02/
