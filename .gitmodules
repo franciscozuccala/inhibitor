@@ -1,3 +1,0 @@
-[submodule "sonatype-work/nexus"]
-	path = sonatype-work/nexus
-	url = git@github.com:franciscozuccala/nexus.git
